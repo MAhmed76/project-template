@@ -40,4 +40,3 @@ logging.basicConfig(
 
 if __name__ == "__main__":
     logging.info("here again i am testing")
->>>>>>> 1eb1758f957087be057d56eab6a5eeae240a4c55
